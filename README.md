@@ -8,6 +8,13 @@
 
 ---
 <!--START_SECTION:waka-->
+```text
+Other        33 hrs 47 mins  ████████████████████▒░░░░   81.41 % 
+PHP          7 hrs 3 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.99 % 
+JavaScript   31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+SQL          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Bash         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+```
 <!--END_SECTION:waka-->
 ---
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=noondaysun&show_icons=true&theme=onedark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noondaysun&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
