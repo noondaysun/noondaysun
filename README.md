@@ -9,8 +9,6 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Total: 11 hrs 45 mins
-
 Other    19 hrs 2 mins   ███████████████▒░░░░░░░░░   61.81 % 
 PHP      3 hrs 38 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
 sh       3 hrs 13 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
