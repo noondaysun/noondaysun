@@ -10,8 +10,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-PHP          6 hrs 47 mins   ███████▒░░░░░░░░░░░░░░░░░   29.23 %
-Other        4 hrs 49 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.78 %
+PHP          7 hrs 29 mins   ███████▓░░░░░░░░░░░░░░░░░   31.23 %
+Other        5 hrs 43 mins   ██████░░░░░░░░░░░░░░░░░░░   23.87 %
 ```
 
 <!--END_SECTION:waka-->
