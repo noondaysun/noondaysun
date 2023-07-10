@@ -9,41 +9,18 @@ on:
     - cron: '0 0 * * *'
 
 jobs:
-  check_run:
+  update-resume-gist:
     runs-on: ubuntu-latest
-    if: "! contains(github.event.head_commit.message, '[ci skip]')"
     steps:
-      - run: echo "${{ github.event.head_commit.message }}"
-  build-resume:
-    runs-on: ubuntu-latest
-    needs: check_run
-    steps:
-      - uses: actions/checkout@v2
-      - uses: kelvintaywl/action-jsonresume-export@v1
-        name: Export resume as HTML
-        with:
-          theme: macchiato
-          resume_filepath: resume.json
-          # modifies the index.html in-place
-          output_filepath: docs/index.html
-      - name: Commit published HTML
-        id: commit
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          if [ -n "$(git status --porcelain docs/index.html)" ]; then
-            git add docs/index.html
-            git commit -m "[ci skip] chore(docs/index.html): update resume page"
-            echo ::set-output name=exit_code::0
-          else
-            echo ::set-output name=exit_code::1
-          fi
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        if: steps.commit.outputs.exit_code == 0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    - name: Update Resume Gist
+      uses: exuanbo/actions-deploy-gist@v1
+      with:
+        token: ${{ secrets.TOKEN }}
+        gist_id: a93e86f352c19a383293adab94b0bdd6
+        file_path: resume.json
   update-readme:
     name: Update this repo's README
     runs-on: ubuntu-latest
