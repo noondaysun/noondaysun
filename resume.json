@@ -6,7 +6,6 @@
     "image": "",
     "email": "feighen@gmail.com",
     "phone": "+27725226375",
-    "url": "",
     "summary": "Experienced Information Technology Development Manager with a demonstrated history of working in the transportation/trucking/railroad industry. Skilled in PHP, Zimbra, Bash, Nginx, and MySQL. Strong program and project management professional graduated from Maritzburg College. ",
     "location": {
       "countryCode": "ZA",
@@ -35,7 +34,6 @@
       "name": "Adeva",
       "position": "Senior Laravel Engineer",
       "startDate": "2021-08-31",
-      "endDate": "",
       "highlights": [],
       "url": "https://www.linkedin.com/company/adeva-it/"
     },
@@ -56,7 +54,6 @@
       "endDate": "2018-07-31",
       "highlights": [],
       "summary": "PHP developer outsourced to Australian cash back company CashRewards. Working mostly on a laravel API for referrals, and adding some behavioural tests to test user journies",
-      "url": "",
       "location": "Durban Area, South Africa"
     },
     {
@@ -85,8 +82,7 @@
       "startDate": "2007-06-30",
       "endDate": "2008-07-31",
       "highlights": [],
-      "summary": "Billing, and full stack web site creation using Zend Framework MVC as \nprimary method.",
-      "url": "",
+      "summary": "Billing, and full stack web site creation using Zend Framework MVC as primary method.",
       "location": "Pietermaritzburg Area, South Africa"
     }
   ],
