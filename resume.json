@@ -1,0 +1,193 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Feighen Oosterbroek",
+    "label": "Senior Laravel Engineer at Adeva",
+    "image": "",
+    "email": "feighen@gmail.com",
+    "phone": "+27725226375",
+    "url": "",
+    "summary": "Experienced Information Technology Development Manager with a demonstrated history of working in the transportation/trucking/railroad industry. Skilled in PHP, Zimbra, Bash, Nginx, and MySQL. Strong program and project management professional graduated from Maritzburg College. ",
+    "location": {
+      "countryCode": "ZA",
+      "address": "South Africa"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "feighen-oosterbroek-9630a514a",
+        "url": "https://www.linkedin.com/in/feighen-oosterbroek-9630a514a/"
+      },
+      {
+        "network": "Github",
+        "username": "noondaysun",
+        "url": "https://github.com/noondaysun"
+      },
+      {
+        "network": "LeetCode",
+        "username": "noondaysun",
+        "url": "https://leetcode.com/noondaysun/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Adeva",
+      "position": "Senior Laravel Engineer",
+      "startDate": "2021-08-31",
+      "endDate": "",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/adeva-it/"
+    },
+    {
+      "name": "Quidco",
+      "position": "PHP Developer",
+      "startDate": "2018-10-31",
+      "endDate": "2021-08-31",
+      "highlights": [],
+      "summary": "PHP Developer",
+      "url": "https://www.linkedin.com/company/quidco/",
+      "location": "Durban Area, South Africa"
+    },
+    {
+      "name": "RM Web Studio",
+      "position": "PHP Developer",
+      "startDate": "2018-01-31",
+      "endDate": "2018-07-31",
+      "highlights": [],
+      "summary": "PHP developer outsourced to Australian cash back company CashRewards. Working mostly on a laravel API for referrals, and adding some behavioural tests to test user journies",
+      "url": "",
+      "location": "Durban Area, South Africa"
+    },
+    {
+      "name": "Barloworld Transport (Pty) Ltd",
+      "position": "IT Development Manager",
+      "startDate": "2013-03-31",
+      "endDate": "2017-12-31",
+      "highlights": [],
+      "summary": "Managing a small developer/qa team. OS patching, documentation, and change control",
+      "url": "https://www.linkedin.com/company/barloworld-transport-pty-ltd/",
+      "location": "Pietermaritzburg Area, South Africa"
+    },
+    {
+      "name": "Manline",
+      "position": "IT Developer",
+      "startDate": "2008-08-31",
+      "endDate": "2013-02-28",
+      "highlights": [],
+      "summary": "PHP Programmer.  Linux OS maintenance, and patching. Zimbra mail server backups and patching",
+      "url": "https://www.linkedin.com/company/manline/",
+      "location": "Pietermaritzburg Area, South Africa"
+    },
+    {
+      "name": "noon day sun programming",
+      "position": "Owner",
+      "startDate": "2007-06-30",
+      "endDate": "2008-07-31",
+      "highlights": [],
+      "summary": "Billing, and full stack web site creation using Zend Framework MVC as \nprimary method.",
+      "url": "",
+      "location": "Pietermaritzburg Area, South Africa"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Maritzburg College",
+      "studyType": "High school",
+      "startDate": "1993-01-01",
+      "endDate": "1997-12-31",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Zend certified engineer PHP 5.3",
+      "issuer": "Zend",
+      "startDate": "2013-10-14",
+      "url": "https://www.zend-zce.com/en/yellow-pages/ZEND023718"
+    },
+    {
+      "name": "Infrastructure as Code, Master AWS Cloud Development Kit CDK",
+      "issuer": "Udemy",
+      "startDate": "2021-05-31",
+      "url": "https://quidco.udemy.com/certificate/UC-24312dc9-0580-4189-a158-3fc09ef568ee/"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Nginx",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PHP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Bash",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JSON",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Zimbra",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Agile Methodologies",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [
+    {
+        "name": "Photography",
+        "keywords": [
+            "Photography"
+        ]
+    },
+    {
+        "name": "Bird Watching",
+        "keywords": [
+            "Birding",
+            "Bird Watching"
+        ]
+    }
+  ],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
