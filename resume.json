@@ -109,6 +109,19 @@
       "issuer": "Udemy",
       "startDate": "2021-05-31",
       "url": "https://quidco.udemy.com/certificate/UC-24312dc9-0580-4189-a158-3fc09ef568ee/"
+    },
+    {
+      "name": "Microsoft Certified: Azure Fundamentals",
+      "issuer": "Microsoft",
+      "startDate": "2023-12-11",
+      "url": "https://learn.microsoft.com/en-us/users/feighen-2173/credentials/certification/azure-fundamentals?tab=credentials-tab"
+    },
+    {
+      "name": "GitHub Foundations",
+      "issuer": "Github",
+      "startDate": "2024-08-31",
+      "endDate": "2027-08-31",
+      "url": "https://www.credly.com/badges/214a3cad-f967-483c-9e47-744832f3c314/public_url"
     }
   ],
   "publications": [],
