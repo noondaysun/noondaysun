@@ -10,8 +10,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP      2 hrs 37 mins   ████████████████████████▒   97.00 %
-Docker   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
