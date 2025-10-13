@@ -123,6 +123,12 @@
       "startDate": "2024-08-31",
       "endDate": "2027-08-31",
       "url": "https://www.credly.com/badges/214a3cad-f967-483c-9e47-744832f3c314/public_url"
+    },
+    {
+      "name": "Docker Foundations Professional Certificate",
+      "issuer": "Docker, and LinkedIn Learning",
+      "startDate": "2025-08-25",
+      "url": "https://www.linkedin.com/learning/certificates/5c5da3ebfbdbbd55d5d07b1d2b9db5b613c5bbea6487997b055f39ebcb14dbf7"
     }
   ],
   "publications": [],
