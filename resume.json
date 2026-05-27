@@ -31,6 +31,14 @@
   },
   "work": [
     {
+      "name": "Cliqtech",
+      "position": "Senior Developer",
+      "summary": "Working in the Discovery team, responsible for a monolith application serving a wills and trusts application written as a Laravel backend serving distinct sub-applications for an admin section using Filament php, a customer portal using react written in typescript, and a will drafting application using inertia and blade templates. Responsible for maintaining and improving the monolith application, as well as developing new features and functionality. Working closely with the product team to understand business requirements and translate them into technical solutions. Collaborating with other developers to ensure code quality and consistency across the application.",
+      "startDate": "2026-11-07",
+      "highlights": [],
+      "url": "https://za.linkedin.com/company/cliqtech-pty-ltd"
+    },
+    {
       "name": "Adeva",
       "position": "Senior Laravel Engineer",
       "summary": "Spearheaded end-to-end development of the ASHRC eCRF platform at IQVIA, leading a team through delivery of a Vue 2-based single-page application built within a unified Laravel monolith. Direct Agile workflows, facilitating sprint planning, backlog prioritisation, and peer code reviews to uphold high-quality engineering standards. Assume leadership responsibilities in a first-time team lead capacity, mentoring developers, coordinating cross-functional efforts, and driving timely project delivery.",
