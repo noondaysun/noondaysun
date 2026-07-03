@@ -9,11 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other                      25 hrs 7 mins         ███████████████████▒░░░░░   77.93 %
-PHP                        4 hrs 27 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.84 %
-textmate                   1 hr 3 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-Docker                     54 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
-Nginx Configuration        21 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+Other                      25 hrs 16 mins        ███████████████████▓░░░░░   79.17 %
+PHP                        4 hrs 1 min           ███░░░░░░░░░░░░░░░░░░░░░░   12.63 %
+textmate                   1 hr 2 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+Docker                     54 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+Nginx Configuration        21 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 ```
 
 <!--END_SECTION:waka-->
