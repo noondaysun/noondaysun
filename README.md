@@ -9,11 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other                      31 hrs 22 mins        ████████████████████░░░░░   80.40 %
-PHP                        6 hrs 6 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.66 %
-TypeScript                 29 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-Python                     19 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-Nginx Configuration        13 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Other                      31 hrs                ███████████████████▒░░░░░   77.65 %
+PHP                        7 hrs 9 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.92 %
+TypeScript                 29 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+Nginx Configuration        24 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Python                     19 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 ```
 
 <!--END_SECTION:waka-->
