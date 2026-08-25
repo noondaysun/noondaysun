@@ -9,11 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other                      25 hrs 47 mins        ██████████████████▓░░░░░░   74.12 %
-PHP                        6 hrs 35 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.94 %
-Markdown                   31 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-TypeScript                 29 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-Nginx Configuration        29 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+Other                      24 hrs 16 mins        █████████████████▓░░░░░░░   70.91 %
+PHP                        6 hrs 22 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.63 %
+TypeScript                 1 hr 39 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
+Markdown                   31 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Nginx Configuration        29 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 ```
 
 <!--END_SECTION:waka-->
